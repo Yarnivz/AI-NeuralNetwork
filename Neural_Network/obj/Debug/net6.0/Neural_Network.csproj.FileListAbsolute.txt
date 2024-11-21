@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Year 4\Artificial Intelligence\Neural_Network\Neural_Network\bin\Debug\net6.0\Neural_Network.exe
+C:\Users\User\Documents\Year 4\Artificial Intelligence\Neural_Network\Neural_Network\bin\Debug\net6.0\Neural_Network.deps.json
+C:\Users\User\Documents\Year 4\Artificial Intelligence\Neural_Network\Neural_Network\bin\Debug\net6.0\Neural_Network.runtimeconfig.json
+C:\Users\User\Documents\Year 4\Artificial Intelligence\Neural_Network\Neural_Network\bin\Debug\net6.0\Neural_Network.dll
+C:\Users\User\Documents\Year 4\Artificial Intelligence\Neural_Network\Neural_Network\bin\Debug\net6.0\Neural_Network.pdb
+C:\Users\User\Documents\Year 4\Artificial Intelligence\Neural_Network\Neural_Network\obj\Debug\net6.0\Neural_Network.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Year 4\Artificial Intelligence\Neural_Network\Neural_Network\obj\Debug\net6.0\Neural_Network.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Year 4\Artificial Intelligence\Neural_Network\Neural_Network\obj\Debug\net6.0\Neural_Network.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Year 4\Artificial Intelligence\Neural_Network\Neural_Network\obj\Debug\net6.0\Neural_Network.AssemblyInfo.cs
+C:\Users\User\Documents\Year 4\Artificial Intelligence\Neural_Network\Neural_Network\obj\Debug\net6.0\Neural_Network.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Year 4\Artificial Intelligence\Neural_Network\Neural_Network\obj\Debug\net6.0\Neural_Network.dll
+C:\Users\User\Documents\Year 4\Artificial Intelligence\Neural_Network\Neural_Network\obj\Debug\net6.0\refint\Neural_Network.dll
+C:\Users\User\Documents\Year 4\Artificial Intelligence\Neural_Network\Neural_Network\obj\Debug\net6.0\Neural_Network.pdb
+C:\Users\User\Documents\Year 4\Artificial Intelligence\Neural_Network\Neural_Network\obj\Debug\net6.0\Neural_Network.genruntimeconfig.cache
+C:\Users\User\Documents\Year 4\Artificial Intelligence\Neural_Network\Neural_Network\obj\Debug\net6.0\ref\Neural_Network.dll
