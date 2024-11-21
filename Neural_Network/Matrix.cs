@@ -106,10 +106,7 @@ namespace Neural_Network
             {
                 for (int j = 0; j < colsB; j++)
                 {
-                    for (int k = 0; k < rowsB; k++) {
-                        Console.WriteLine($"{result[i, j]} += {matrixa[i, k]} * {matrixb[k, j]} = " + (result[i, j] += matrixa[i, k] * matrixb[k, j]));
-                        result[i, j] += matrixa[i, k] * matrixb[k, j];
-                        }
+                    for (int k = 0; k < rowsB; k++) result[i, j] += matrixa[i, k] * matrixb[k, j];
                 }
             }
             return result;

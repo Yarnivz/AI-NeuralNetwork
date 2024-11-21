@@ -47,8 +47,6 @@ namespace Neural_Network
                 }
 
                 dotproducts = Matrix.DotProduct(Matrix.Transpose(training_input), multiplications);
-
-                Matrix.Print(dotproducts);
                 Weights = Matrix.Sum(Weights, dotproducts); // There was a mistake here => Matrix.Subtract() was used instead of Matrix.Sum()
             }
 
